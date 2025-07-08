@@ -1,5 +1,5 @@
 import requests
-from data import BASE_URL, Endpoints
+from urls import BASE_URL, Endpoints
 
 
 def create_user(user_data):
